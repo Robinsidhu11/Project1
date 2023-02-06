@@ -58,6 +58,9 @@ nav ul{
     align-items: center;
     font-weight: 500;
 }
+nav ul li{
+    font-size: 18px;
+}
 nav ul li:hover{
     text-decoration: underline;
     font-weight: 800;
